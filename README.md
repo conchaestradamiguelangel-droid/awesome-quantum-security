@@ -98,6 +98,8 @@ Sometimes quantum technologies can be useful for helping solve problems in cyber
 
 - [Cutting Medusa's Path](https://arxiv.org/abs/2211.13740) - 2022-11-24 - Paper exploring how quantum computing might help solve patch management.
 
+- [AEGIS](https://github.com/conchaestradamiguelangel-droid/aegis) - Autonomous intrusion detection system that signs every threat alert with ML-DSA-87 (NIST FIPS 204), creating a post-quantum authenticated audit trail. 9 defense layers, self-hosted, zero telemetry. Python.
+
 ## Relevant Quantum Tech awesome lists
 
 If you're here for PQC let's 302 you to [awesome post quantum](https://github.com/veorq/awesome-post-quantum/).
